@@ -1,4 +1,4 @@
-function greeting(person:string) {
+function greet(person:string) {
     return "Hello, "+person;
 }
-console.log(greeting("RK"));
+console.log(greet("RK"));
