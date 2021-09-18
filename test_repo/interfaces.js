@@ -1,3 +1,4 @@
+"use strict";
 function Rectange(options) {
     var width = options.width;
     var length = options.length;
@@ -9,5 +10,6 @@ function Rectange(options) {
 }
 Rectange({
     width: 20,
-    length: 40
+    length: 40,
+    // height:1000
 });
