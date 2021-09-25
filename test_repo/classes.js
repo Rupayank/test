@@ -31,9 +31,10 @@ var Cat = /** @class */ (function (_super) {
         return _super.call(this, theName) || this;
     }
     Cat.prototype.walk = function (dist) {
-        console.log(this.name + " can't walk much");
+        console.log(this.name + " can't walk much coz she is a cat");
     };
     return Cat;
 }(Animal));
 var cat = new Cat("ruby");
 cat.walk(2);
+//# sourceMappingURL=classes.js.map

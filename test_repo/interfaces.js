@@ -13,3 +13,4 @@ Rectange({
     length: 40,
     // height:1000
 });
+//# sourceMappingURL=interfaces.js.map

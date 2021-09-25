@@ -32,3 +32,4 @@ if (statusCode === allCodes.left) {
 else {
     console.log("change statusCode & check");
 }
+//# sourceMappingURL=hello.js.map
