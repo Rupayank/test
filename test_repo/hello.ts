@@ -2,6 +2,7 @@ function greeting(person:string) {
     return "Hello there again, "+person;
 }
 var user="Mother";
+var user2="Father";
 console.log(greeting("RK"));
 let check:boolean=true;
 let arr:number[]=[1,22,13];
