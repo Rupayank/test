@@ -1,3 +1,4 @@
 hi there from 1
 added a new line in text
 third new line added
+need to checkout working of "git rebase <branch>"
